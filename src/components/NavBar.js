@@ -12,7 +12,7 @@ const NavBar = () => {
         
             <div className="nav-links">
                 <a
-                    href="https://github.com/KumarAryan0530"
+                    href="https://github.com/KumarAryan0530/Spotipy"
                     target="_blank"
                     rel="noreferrer"
                 >
